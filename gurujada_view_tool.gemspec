@@ -6,8 +6,8 @@ require "gurujada_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "gurujada_view_tool"
   spec.version       = GurujadaViewTool::VERSION
-  spec.authors       = ["TODO:Sri"]
-  spec.email         = ["TODO: "]
+  spec.authors       = ["Sri"]
+  spec.email         = ["Tlfc5timesktt@gmail.com "]
 
   spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
